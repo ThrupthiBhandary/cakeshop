@@ -1,0 +1,22 @@
+.feedback-container {
+    text-align: center;
+    padding: 50px;
+    background-color: #f4f4f9;
+  }
+  
+  textarea {
+    width: 80%;
+    height: 150px;
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #b4461e;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
